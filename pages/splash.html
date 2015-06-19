@@ -1,0 +1,40 @@
+<ons-page ng-controller="SplashController">
+
+  <!--
+
+  Display the heart gallery logo and a button in the top right for a menu
+
+  -->
+
+  <!--<ons-toolbar modifier="transparent">
+    <div class="right">
+      <ons-toolbar-button ng-click="app.menu.toggleMenu();">
+        <ons-icon icon="ion-navicon" size="32px"></ons-icon>
+      </ons-toolbar-button>
+    </div>
+  </ons-toolbar>-->
+
+  <div id="splash-page">
+    <table>
+      <tbody>
+        <tr>
+          <td class="title">
+            Heart Gallery<br><span>North Florida</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="img/heart-gallery-nf-logo.png">
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <ons-button ng-click="gallery();">Gallery</ons-button>
+            <ons-button ng-click="camera();">Camera</ons-button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</ons-page>
