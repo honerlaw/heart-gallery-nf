@@ -1,0 +1,99 @@
+2015-06-23 19:23:29.041 HeartGallery[17471:1224870] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Data/Application/4E11DD17-A482-4465-9969-EA7DA9D7CDDE/Library/Cookies/Cookies.binarycookies
+2015-06-23 19:23:29.360 HeartGallery[17471:1224870] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 19:23:29.361 HeartGallery[17471:1224870] Multi-tasking -> Device: YES, App: YES
+2015-06-23 19:23:29.379 HeartGallery[17471:1224870] Unlimited access to network resources
+2015-06-23 19:23:29.391 HeartGallery[17471:1224870] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-23 19:23:30.218 HeartGallery[17471:1224870] Resetting plugins due to page load.
+2015-06-23 19:23:30.595 HeartGallery[17471:1224870] Finished load of: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Bundle/Application/4F17B3A1-6427-4F9A-9EB9-C1B99C58FF72/HeartGallery.app/www/index.html
+2015-06-24 21:09:18.229 HeartGallery[17901:1318140] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Data/Application/50328EF7-37A4-4640-8784-3C05E5E4999F/Library/Cookies/Cookies.binarycookies
+2015-06-24 21:09:18.596 HeartGallery[17901:1318140] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 21:09:18.597 HeartGallery[17901:1318140] Multi-tasking -> Device: YES, App: YES
+2015-06-24 21:09:18.618 HeartGallery[17901:1318140] Unlimited access to network resources
+2015-06-24 21:09:18.629 HeartGallery[17901:1318140] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 21:09:19.298 HeartGallery[17901:1318140] Resetting plugins due to page load.
+2015-06-24 21:09:19.640 HeartGallery[17901:1318140] Finished load of: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Bundle/Application/6F02D164-345B-498C-AEC8-340D7C6CE4F3/HeartGallery.app/www/index.html
+2015-06-24 21:11:17.992 HeartGallery[18083:1320027] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Data/Application/6AFBE480-5A34-47A0-9C6A-FAC61E6624F1/Library/Cookies/Cookies.binarycookies
+2015-06-24 21:11:18.117 HeartGallery[18083:1320027] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 21:11:18.118 HeartGallery[18083:1320027] Multi-tasking -> Device: YES, App: YES
+2015-06-24 21:11:18.121 HeartGallery[18083:1320027] Unlimited access to network resources
+2015-06-24 21:11:18.125 HeartGallery[18083:1320027] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 21:11:18.291 HeartGallery[18083:1320027] Resetting plugins due to page load.
+2015-06-24 21:11:18.454 HeartGallery[18083:1320027] Finished load of: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Bundle/Application/F2154B5E-F2CF-45CF-B590-DBC8B0DD7AEC/HeartGallery.app/www/index.html
+2015-06-24 21:12:47.436 HeartGallery[18220:1321998] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Data/Application/ED516007-6F1E-445C-8C5E-BDBC7B8FB314/Library/Cookies/Cookies.binarycookies
+2015-06-24 21:12:47.548 HeartGallery[18220:1321998] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 21:12:47.548 HeartGallery[18220:1321998] Multi-tasking -> Device: YES, App: YES
+2015-06-24 21:12:47.551 HeartGallery[18220:1321998] Unlimited access to network resources
+2015-06-24 21:12:47.556 HeartGallery[18220:1321998] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 21:12:47.721 HeartGallery[18220:1321998] Resetting plugins due to page load.
+2015-06-24 21:12:47.941 HeartGallery[18220:1321998] Finished load of: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Bundle/Application/C66EC8AD-1D7E-449B-B7A3-029CCCE9C718/HeartGallery.app/www/index.html
+2015-06-24 21:19:48.079 HeartGallery[18403:1328196] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Data/Application/0C7836C7-3536-455B-99E8-6B59C212D646/Library/Cookies/Cookies.binarycookies
+2015-06-24 21:19:48.181 HeartGallery[18403:1328196] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 21:19:48.181 HeartGallery[18403:1328196] Multi-tasking -> Device: YES, App: YES
+2015-06-24 21:19:48.183 HeartGallery[18403:1328196] Unlimited access to network resources
+2015-06-24 21:19:48.187 HeartGallery[18403:1328196] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 21:19:48.362 HeartGallery[18403:1328196] Resetting plugins due to page load.
+2015-06-24 21:19:48.541 HeartGallery[18403:1328196] Finished load of: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Bundle/Application/91E282CC-1148-4B11-8358-24BB945E890C/HeartGallery.app/www/index.html
+2015-06-24 21:20:37.408 HeartGallery[18525:1328854] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Data/Application/9267AB22-9BE4-478B-B0C0-59B4C06CA0B4/Library/Cookies/Cookies.binarycookies
+2015-06-24 21:20:37.528 HeartGallery[18525:1328854] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 21:20:37.528 HeartGallery[18525:1328854] Multi-tasking -> Device: YES, App: YES
+2015-06-24 21:20:37.532 HeartGallery[18525:1328854] Unlimited access to network resources
+2015-06-24 21:20:37.536 HeartGallery[18525:1328854] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 21:20:37.703 HeartGallery[18525:1328854] Resetting plugins due to page load.
+2015-06-24 21:20:37.882 HeartGallery[18525:1328854] Finished load of: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Bundle/Application/BA814078-060E-460B-9F35-03FE48EAFBEF/HeartGallery.app/www/index.html
+2015-06-24 21:20:40.447 HeartGallery[18525:1328854] THREAD WARNING: ['BarcodeScanner'] took '27.621094' ms. Plugin should use a background thread.
+2015-06-24 21:21:18.221 HeartGallery[18647:1329549] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Data/Application/F4C51564-AF12-47C7-B318-F03276535BCD/Library/Cookies/Cookies.binarycookies
+2015-06-24 21:21:18.339 HeartGallery[18647:1329549] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 21:21:18.340 HeartGallery[18647:1329549] Multi-tasking -> Device: YES, App: YES
+2015-06-24 21:21:18.343 HeartGallery[18647:1329549] Unlimited access to network resources
+2015-06-24 21:21:18.347 HeartGallery[18647:1329549] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 21:21:18.519 HeartGallery[18647:1329549] Resetting plugins due to page load.
+2015-06-24 21:21:18.707 HeartGallery[18647:1329549] Finished load of: file:///Users/Derek/Library/Developer/CoreSimulator/Devices/78C2C1DA-FD6F-4414-8607-EAC2BD5D8BF8/data/Containers/Bundle/Application/8C21394E-AB16-42A6-8EAB-3AA7398A7154/HeartGallery.app/www/index.html

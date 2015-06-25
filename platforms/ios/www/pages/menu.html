@@ -1,0 +1,11 @@
+<ons-page ng-controller="MenuController">
+
+  <ons-list>
+    <ons-list-header>gallery</ons-list-header>
+    <ons-list-item modifier="chevron" ng-click="home();">Home</ons-list-item>
+    <ons-list-item modifier="chevron" ng-repeat="child in data.children.posts" ng-click="display(child);">
+      {{child.title}}
+    </ons-list-item>
+  </ons-list>
+
+</ons-page>

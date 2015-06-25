@@ -1,0 +1,37 @@
+<ons-page ng-controller="ChildController">
+
+  <ons-toolbar modifier="transparent">
+    <div class="left">
+      <ons-toolbar-button ng-click="app.menu.toggleMenu();">
+        <ons-icon icon="ion-navicon" size="32px"></ons-icon>
+      </ons-toolbar-button>
+    </div>
+    <div class="center">{{data.child.title}}</div>
+    <div class="right">
+      <ons-toolbar-button ng-click="camera();">
+        <ons-icon icon="ion-camera" size="32px"></ons-icon>
+      </ons-toolbar-button>
+    </div>
+  </ons-toolbar>
+
+
+  <div id="child-page">
+
+    <div class="image-loading-icon">
+      <ons-icon icon="ion-load-a" size="56px" spin="true"></ons-icon>
+    </div>
+    <center>
+      <img ng-src="{{data.child.image}}" imageonload />
+    </center>
+    <div class="title">
+      {{data.child.title}}
+    </div>
+  </div>
+
+  <!--
+
+  Design the child page now
+
+  -->
+
+</ons-page>
